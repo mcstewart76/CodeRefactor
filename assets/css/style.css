@@ -38,7 +38,7 @@ body {
 
 .header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 1.5625em;
 }
 
 a {
@@ -47,13 +47,13 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1em;
 }
 
 .hero {
-    height: 800px;
+    height: 50em;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 1.5625em;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -61,23 +61,23 @@ p {
 
 .float-left {
     float: left;
-    margin-right: 25px;
+    margin-right: 1.5625em;
 }
 
 .float-right {
     float: right;
-    margin-left: 25px;
+    margin-left: 1.5625em;
 }
 
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 1.25em;
 }
 
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
+    margin-right: 1.25em;
+    padding: 1.25em;
     clear: both;
     float: right;
     width: 20%;
