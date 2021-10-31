@@ -5,11 +5,14 @@
     margin: 0;
 }
 
+
+/* Gives the background color for the site */
 body {
     background-color: #d9dcd6;
 }
-/* Adds rules for the header class to follow */
 
+
+/* Adds rules for the header class to follow */
 .header {
     padding: 1.25em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
