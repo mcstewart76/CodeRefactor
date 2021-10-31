@@ -127,6 +127,7 @@ p {
 
 .search-engine-optimization img, .social-media-marketing img, .online-reputation-management img {
     max-height: 12.5em;
+    padding-bottom: 0.625em;
 }
 
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
