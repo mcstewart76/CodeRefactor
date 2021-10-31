@@ -69,6 +69,7 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
+    
 }
 
 
@@ -184,5 +185,9 @@ p {
 .footer h2 {
     font-size: 1.25em;
 }
+
+/* @media screen and (max-width:) {
+    
+} */
 
 
